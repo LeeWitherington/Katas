@@ -1,0 +1,10 @@
+source :rubygems
+
+group :development do
+  gem 'rspec'
+  gem 'rspec-core'
+  gem 'guard-rspec'
+  gem 'guard'
+  gem 'growl'
+  gem 'rb-fsevent'
+end
